@@ -2,3 +2,4 @@
 **.log
 **.env
 **/log.py
+**/Output.txt
