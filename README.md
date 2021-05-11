@@ -1,3 +1,4 @@
+## Spark
 * Installation of Spark on Windows
    * Prerequisites: Java and Anaconda Distribution
    * Download Spark from Appache Website
